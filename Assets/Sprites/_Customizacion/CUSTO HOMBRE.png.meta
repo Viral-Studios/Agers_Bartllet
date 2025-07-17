@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 94935af227a2a8a4abb883b3633c7d4e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CUSTO HOMBRE 1_0
+    21300002: CUSTO HOMBRE 1_1
+    21300004: CUSTO HOMBRE 1_2
+    21300006: CUSTO HOMBRE 1_3
+    21300008: CUSTO HOMBRE 1_4
+    21300010: CUSTO HOMBRE 1_5
+    21300012: CUSTO HOMBRE 1_6
+    21300014: CUSTO HOMBRE 1_7
+    21300016: CUSTO HOMBRE 1_8
+    21300018: CUSTO HOMBRE 1_9
+    21300020: CUSTO HOMBRE 1_10
+    21300022: CUSTO HOMBRE 1_11
+    21300024: CUSTO HOMBRE 1_12
+    21300026: CUSTO HOMBRE 1_13
+    21300028: CUSTO HOMBRE 1_14
+    21300030: CUSTO HOMBRE 1_15
+    21300032: CUSTO HOMBRE 1_16
+    21300034: CUSTO HOMBRE 1_17
+    21300036: CUSTO HOMBRE 1_18
+    21300038: CUSTO HOMBRE 1_19
+    21300040: CUSTO HOMBRE 1_20
+    21300042: CUSTO HOMBRE 1_21
+    21300044: CUSTO HOMBRE 1_22
+    21300046: CUSTO HOMBRE 1_23
+    21300048: CUSTO HOMBRE 1_24
+    21300050: CUSTO HOMBRE 1_25
+    21300052: CUSTO HOMBRE 1_26
+    21300054: CUSTO HOMBRE 1_27
+    21300056: CUSTO HOMBRE 1_28
+    21300058: CUSTO HOMBRE 1_29
+    21300060: CUSTO HOMBRE 1_30
+    21300062: CUSTO HOMBRE 1_31
+    21300064: CUSTO HOMBRE
+    21300066: CUSTO HOMBRE_0
+    21300068: CUSTO HOMBRE_1
+    21300070: CUSTO HOMBRE_2
+    21300072: CUSTO HOMBRE_3
+    21300074: CUSTO HOMBRE_4
+    21300076: CUSTO HOMBRE_5
+    21300078: CUSTO HOMBRE_6
+    21300080: CUSTO HOMBRE_7
+    21300082: CUSTO HOMBRE_8
+    21300084: CUSTO HOMBRE_9
+    21300086: CUSTO HOMBRE_10
+    21300088: CUSTO HOMBRE_11
+    21300090: CUSTO HOMBRE_12
+    21300092: CUSTO HOMBRE_13
+    21300094: CUSTO HOMBRE_14
+    21300096: CUSTO HOMBRE_15
+    21300098: CUSTO HOMBRE_16
+    21300100: CUSTO HOMBRE_17
+    21300102: CUSTO HOMBRE_18
+    21300104: CUSTO HOMBRE_19
+    21300106: CUSTO HOMBRE_20
+    21300108: CUSTO HOMBRE_21
+    21300110: CUSTO HOMBRE_22
+    21300112: CUSTO HOMBRE_23
+    21300114: CUSTO HOMBRE_24
+    21300116: CUSTO HOMBRE_25
+    21300118: CUSTO HOMBRE_26
+    21300120: CUSTO HOMBRE_27
+    21300122: CUSTO HOMBRE_28
+    21300124: CUSTO HOMBRE_29
+    21300126: CUSTO HOMBRE_30
+    21300128: CUSTO HOMBRE_31
+    21300130: z_nada
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f682df45a6c1a4d991869753503962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 564
+        width: 132
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a5acf341d92941a774be2269dba21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 564
+        width: 132
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf296f5533ed7f0479e3909b2a87c9de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 564
+        width: 130
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4577ffd6790e55b419008226eb97d6e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf98994318690b40822d2e72c3e62a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d661bccef031c42aa6944bda85ed18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 564
+        width: 131
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1f82fb9f7dbcb4385c470f81711bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf0556409c6b1242996c00e84bc60c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691b8cec8afb70246814823738916f8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_9
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 564
+        width: 132
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c4673d445b6664291289b854bc6e5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_10
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6faa8c5a52b744d9e427d7fdb36861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_11
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d01de735269af4684a9492503781c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_12
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 564
+        width: 130
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79edf450f1992d14894f72999ffad717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_13
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8985deabdaa7c3047ab5560fb9fc52ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8f10e716f7d5843ab8790d650d50b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 282
+        width: 132
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f708c035f06701f40a337838b170306a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b00fa98c57d041b03ef42d43e92f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53070937023a44d46a5df1ba39d7078f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cab154bd520dd4582155db9e0bbbe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346d291369aa9ea439798d4730f61312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08deeac0b4d7d948a4a0a680839b99b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_21
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ebe0d29379ea247adbc854322e4255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 280
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ea223694149342a1f01d8797345de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_23
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 280
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b380e0f64f7149baa76b6d7cb1cce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_24
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f787d170a7e0641b7c75c8ec0af753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_25
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5438e9b506da740a0a95ec34b3ba29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_26
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e9b0d935c8be4aa8e39db2affbf9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eef4c570445c14db9609e5d7643348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47d7f19ac9a78845a22c0393d246832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4bd831b45c831428ee0b1e270068e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d6a87852f1e69419fcc448d8444ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO HOMBRE_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298201f654a16746b8d008b488406d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z_nada
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 78
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e8afd67091934f95035a0c4751a64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d923d7f401ef56e47b0f8b535a8f887c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

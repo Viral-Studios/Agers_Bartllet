@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 0d1b124fedee9b34b87a085fdaaf50a7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CUSTO MUJER 1_0
+    21300002: CUSTO MUJER 1_1
+    21300004: CUSTO MUJER 1_2
+    21300006: CUSTO MUJER 1_3
+    21300008: CUSTO MUJER 1_4
+    21300010: CUSTO MUJER 1_5
+    21300012: CUSTO MUJER 1_6
+    21300014: CUSTO MUJER 1_7
+    21300016: CUSTO MUJER 1_8
+    21300018: CUSTO MUJER 1_9
+    21300020: CUSTO MUJER 1_10
+    21300022: CUSTO MUJER 1_11
+    21300024: CUSTO MUJER 1_12
+    21300026: CUSTO MUJER 1_13
+    21300028: CUSTO MUJER 1_14
+    21300030: CUSTO MUJER 1_15
+    21300032: CUSTO MUJER 1_16
+    21300034: CUSTO MUJER 1_17
+    21300036: CUSTO MUJER 1_18
+    21300038: CUSTO MUJER 1_19
+    21300040: CUSTO MUJER 1_20
+    21300042: CUSTO MUJER 1_21
+    21300044: CUSTO MUJER 1_22
+    21300046: CUSTO MUJER 1_23
+    21300048: CUSTO MUJER_0
+    21300050: CUSTO MUJER_1
+    21300052: CUSTO MUJER_2
+    21300054: CUSTO MUJER_3
+    21300056: CUSTO MUJER_4
+    21300058: CUSTO MUJER_5
+    21300060: CUSTO MUJER_6
+    21300062: CUSTO MUJER_7
+    21300064: CUSTO MUJER_8
+    21300066: CUSTO MUJER_9
+    21300068: CUSTO MUJER_10
+    21300070: CUSTO MUJER_11
+    21300072: CUSTO MUJER_12
+    21300074: CUSTO MUJER_13
+    21300076: CUSTO MUJER_14
+    21300078: CUSTO MUJER_15
+    21300080: CUSTO MUJER_16
+    21300082: CUSTO MUJER_17
+    21300084: CUSTO MUJER_18
+    21300086: CUSTO MUJER_19
+    21300088: CUSTO MUJER_20
+    21300090: CUSTO MUJER_21
+    21300092: CUSTO MUJER_22
+    21300094: CUSTO MUJER_23
+    21300096: CUSTO MUJER_24
+    21300098: CUSTO MUJER_25
+    21300100: CUSTO MUJER_26
+    21300102: CUSTO MUJER_27
+    21300104: CUSTO MUJER_28
+    21300106: CUSTO MUJER_29
+    21300108: CUSTO MUJER_30
+    21300110: CUSTO MUJER_31
+    21300112: CUSTO MUJER_32
+    21300114: CUSTO MUJER_33
+    21300116: CUSTO MUJER_34
+    21300118: CUSTO MUJER_35
+    21300120: CUSTO MUJER_36
+    21300122: CUSTO MUJER_37
+    21300124: CUSTO MUJER_38
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CUSTO MUJER_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 135
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1b735324ac0c4e875ee2e8f88fb46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 569
+        width: 133
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403be378fa8a40c489b6fe179758fc47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 569
+        width: 133
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8751065171a34c9f3df8de2342f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 569
+        width: 135
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc634d56bfa42043a9a40c9b3fff8c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9984051b2b5fb4b8c3ab3bab9fbe6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67385bec0b89f3d4fa3edc75fbdaeb67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 564
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef638756a38094b45b1f5418a26a65ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_7
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 567
+        width: 135
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0250ac39c3150574e8f717b3a7b93311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_8
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 567
+        width: 135
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba91ba2ee6b07248aa73e70493cc56c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_9
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 567
+        width: 135
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627ed2ae865048f4ab86a82ec31e4fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_10
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 566
+        width: 133
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2603d6a8849b5c942ab2843ab0b7ba9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_11
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 566
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb02190b294160d4c8ff2dfbe101ea3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_12
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 567
+        width: 135
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e99241a8b6245418d3012e69cd39f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_13
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 564
+        width: 131
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2dd76bfc607854b94e6cfa2dbe4e6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 283
+        width: 130
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa86fa1d2036a9459ea8a89a7fed262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 283
+        width: 130
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee6a1914311b2240abd143bd098fcb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 282
+        width: 130
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f107126c67a88ce4f81223d9330bf6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 282
+        width: 130
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec384773a0385f49b526b62227ed7bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e526a9f97c04e27479f86adb2565d97e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d00771c6c11a4191bf47b6c562932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_20
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 286
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f495be5772b5d549baa124fcb5dca01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_21
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7169250669fc8941bc4680601513e10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4249971824d2e95498f030685d95b42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_23
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada2eca2ea9c7a4c964d6cea8959858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_24
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8026c05ac0b57e4aa3d3bc0c36b20b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_25
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f27a3893c52246b780854d7863ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_26
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 282
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b572391888954ea2f1d2b9dc38f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 125
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71cff1f89a64e41b985479eef6f5ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 131
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e082ece1bd9273a48a29644e4aa289a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303d5e226745ad43ba639763a1c36f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a425582223ff84c4ab21a0ddf5989480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUSTO MUJER_31
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 135
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd41c14338bd6094b9a054c5bb3fbb77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 39a145ca0ce7a5d4c914230059db4c50
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

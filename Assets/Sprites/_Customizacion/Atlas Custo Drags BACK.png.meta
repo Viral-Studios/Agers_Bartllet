@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: 88e0e2a7c81968248baa4f86f1f0cdce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1474165507197570302
+    second: Atlas Custo Drags BACK_0
+  - first:
+      213: 1002962069262046994
+    second: Atlas Custo Drags BACK_1
+  - first:
+      213: 654723083410115788
+    second: Atlas Custo Drags BACK_2
+  - first:
+      213: 2655556910837159664
+    second: Atlas Custo Drags BACK_3
+  - first:
+      213: -8780299444632831802
+    second: Atlas Custo Drags BACK_4
+  - first:
+      213: 856249859180603012
+    second: Atlas Custo Drags BACK_5
+  - first:
+      213: 4026236848303099550
+    second: Atlas Custo Drags BACK_6
+  - first:
+      213: 2419468399901980940
+    second: Atlas Custo Drags BACK_7
+  - first:
+      213: -8219378306040903306
+    second: Atlas Custo Drags BACK_8
+  - first:
+      213: 4210835729305055593
+    second: Atlas Custo Drags BACK_9
+  - first:
+      213: 6827303222683401683
+    second: Atlas Custo Drags BACK_10
+  - first:
+      213: 3886473778598556609
+    second: Atlas Custo Drags BACK_11
+  - first:
+      213: 140443694815723174
+    second: Atlas Custo Drags BACK_12
+  - first:
+      213: -8204465146452624039
+    second: Atlas Custo Drags BACK_13
+  - first:
+      213: -4969532584825435674
+    second: Atlas Custo Drags BACK_14
+  - first:
+      213: -7276491128744603045
+    second: Atlas Custo Drags BACK_15
+  - first:
+      213: 3101104157550661056
+    second: Atlas Custo Drags BACK_16
+  - first:
+      213: 7047211465293687993
+    second: Atlas Custo Drags BACK_17
+  - first:
+      213: -603817262575980498
+    second: Atlas Custo Drags BACK_18
+  - first:
+      213: -657259142931973021
+    second: Atlas Custo Drags BACK_19
+  - first:
+      213: 4803793607939863501
+    second: Atlas Custo Drags BACK_20
+  - first:
+      213: -7847970184028196420
+    second: Atlas Custo Drags BACK_21
+  - first:
+      213: -5265640081748138820
+    second: Atlas Custo Drags BACK_22
+  - first:
+      213: 2718073216015005390
+    second: Atlas Custo Drags BACK_23
+  - first:
+      213: -5288577621611425398
+    second: Atlas Custo Drags BACK_24
+  - first:
+      213: -6303590939281001897
+    second: Atlas Custo Drags BACK_25
+  - first:
+      213: -8424010536140983658
+    second: Atlas Custo Drags BACK_26
+  - first:
+      213: -5902015784933498357
+    second: Atlas Custo Drags BACK_27
+  - first:
+      213: -7278284353327844622
+    second: Atlas Custo Drags BACK_28
+  - first:
+      213: -3194915097960700701
+    second: Atlas Custo Drags BACK_29
+  - first:
+      213: -6935978395286852814
+    second: Atlas Custo Drags BACK_30
+  - first:
+      213: -7056055468757670918
+    second: Atlas Custo Drags BACK_31
+  - first:
+      213: 8140735380348435293
+    second: Atlas Custo Drags BACK_32
+  - first:
+      213: -641502937954834038
+    second: Atlas Custo Drags BACK_33
+  - first:
+      213: 6168796634959978340
+    second: Atlas Custo Drags BACK_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 16
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6983a7470fddf46a762d0e657bda2d
+      internalID: 1474165507197570302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071aa8908f4f7c4f9e92b3189072691
+      internalID: 1002962069262046994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13432730ded88a42999a728fe7bd118
+      internalID: 654723083410115788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3891facb7c7f4478a7001328d7fd0e
+      internalID: 2655556910837159664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139db1a61154a054a829a5b796eefd25
+      internalID: -8780299444632831802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51fede4b05bc01468311cd256e80e2b
+      internalID: 856249859180603012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b9639506c85348a1a993540868c37
+      internalID: 4026236848303099550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05df50b0109861f4e826a1942cf5313c
+      internalID: 2419468399901980940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec7c00cf16690f4998beea995b6a053
+      internalID: -8219378306040903306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_9
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd0f718a586954fa581596f789f575
+      internalID: 4210835729305055593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_10
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456b0de72e9c544091d9f2fc1fda1f0
+      internalID: 6827303222683401683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_11
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bccefc2642caa4e932120b00d362da
+      internalID: 3886473778598556609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_12
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df801ca428d214992db1ebd6687a64
+      internalID: 140443694815723174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_13
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976249741ba008f43b12511987c999d4
+      internalID: -8204465146452624039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_14
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e26ada23d8c93499ad5846044898a1
+      internalID: -4969532584825435674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_15
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871897e8d2fe144e98cd9ed6a01171f
+      internalID: -7276491128744603045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 280
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a2c507659396458c2703ba86a3bb9
+      internalID: 3101104157550661056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472916ef1936064a862e54a9a7a18e2
+      internalID: 7047211465293687993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbabe33948e13f4293d42615f74fa26
+      internalID: -603817262575980498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7945cbd40edd9249a1794421b896cef
+      internalID: -657259142931973021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f26a5a305c3de49b7a9b1578b31af5
+      internalID: 4803793607939863501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a6d6d0f96fc44087997cba04ba404
+      internalID: -7847970184028196420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6925ecf4fc57442a11f963f042ba58
+      internalID: -5265640081748138820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a481585a360e44e4c99edea0d121a970
+      internalID: 2718073216015005390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_24
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9185b2204c25842409046a45bcc43da9
+      internalID: -5288577621611425398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee0189b86ffb1418be7a6bf4dee122
+      internalID: -6303590939281001897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_26
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8adbc20abd8042944b44ef1ede441
+      internalID: -8424010536140983658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_27
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357979eb681d6634596e3e64601c97ca
+      internalID: -5902015784933498357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_28
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77312fe3e92c35149b81a84bb30d0fca
+      internalID: -7278284353327844622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_29
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab24ccc3b5df9f4aa286f24275e3881
+      internalID: -3194915097960700701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_30
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69d17120300a2540aaf7aa37ae6e972
+      internalID: -6935978395286852814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_31
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a916dab9ec8fa479156d3b62e75163
+      internalID: -7056055468757670918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_32
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae3c8e9d890f0469cfa770971c0eae
+      internalID: 8140735380348435293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_33
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213b84f3d1f3164da7e62821cce87c6
+      internalID: -641502937954834038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Custo Drags BACK_34
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 0
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a9e9d773cdc04aa739b6cf1620b0c
+      internalID: 6168796634959978340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c3d4dee57157bb147880a2d7f802e187
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
